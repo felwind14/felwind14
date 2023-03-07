@@ -3,6 +3,16 @@
 
 **felwind14/felwind14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+## Employment
+- Seequent 
+- Ecopetrol
+- Ingeniería y Geotecnia 
+
+## Education
+- Geoinformation Science Faculty -
+- National university of Colombia
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
