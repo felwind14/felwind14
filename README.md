@@ -12,7 +12,7 @@
 - Ingeniería y Geotecnia 
 
 ## Education
-- Geoinformation Science Faculty -
+- Geoinformation Science Faculty (Netherlands)
 - National university of Colombia
 
 
