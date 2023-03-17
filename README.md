@@ -8,7 +8,7 @@
 
 I am a Disaster Risk Reduction specialist and Civil Engineer with focus on the study of Natural Hazards and Risk changes under scenarios such as Climate Change and population growth. 
 
-Some of my areas of interest are the modelling of landslides, flooding, hyper-concentrated phenomena (e.g. Debris-Flow) with the estimation of the impacts of those hazards on the build environment and critical infrastructure using Environmental modeling, Remote sensing,  Geographic Information Science (GIS), Geotechnical analysis(Finite elements Analysis) and exploratory cost benefit analysis. 
+Some of my areas of interest are the modelling of landslides, flooding, hyper-concentrated phenomena (e.g. Debris-Flow) and study of their interaction with the build environment and critical infrastructure to estimate the potential consequences using Environmental modeling, Remote sensing,  Geographic Information Science (GIS), Geotechnical analysis(Finite elements Analysis) and exploratory cost benefit analysis. 
 
 ## Employment 
 
