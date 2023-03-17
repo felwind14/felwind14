@@ -1,18 +1,23 @@
 ## Felipe Fonseca
 
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/felipefonsecasceng11/)
-<!-- [![](https://img.shields.io/github/followers/felwind14?style=social)](https://github.com/felwind14?tab=followers) -->
+[![LinkedIn Badge](https://img.shields.io/badge/My-ResearchGate-brightgreen)](https://www.researchgate.net/profile/Felipe-Fonseca-6/)
+[![CV Badge](https://img.shields.io/badge/My-CV-critical)]()
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=felwind14.felwind14)
+[![GitHub Badge](https://img.shields.io/github/followers/felwind14?style=social)](https://github.com/felwind14?tab=followers)
 
+I am a Disaster Risk Reduction specialist and Civil Engineer with focus on the study of Natural Hazards and Risk changes under scenarios such as Climate Change and population growth. 
 
-**felwind14/felwind14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Some of my areas of interest are the modelling of landslides, flooding, hyper-concentrated phenomena (e.g. Debris-Flow) with the estimation of the impacts of those hazards on the build environment and critical infrastructure using Environmental modeling, Remote sensing,  Geographic Information Science (GIS), Geotechnical analysis(Finite elements Analysis) and exploratory cost benefit analysis. 
 
-## Employment
-- Seequent 
+## Employment 
+
+- Seequent/Bentley Systems   
 - Ecopetrol
 - Ingeniería y Geotecnia 
 
 ## Education
-- Geoinformation Science Faculty (Netherlands)
+- Msc. Geoinformation Science Faculty (Netherlands)
 - National university of Colombia
 
 
